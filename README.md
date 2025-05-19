@@ -15,38 +15,12 @@ Example columns:
 - `time`: Time of day (Lunch/Dinner)
 - `size`: Size of the dining party (int)
 
-## 🔍 Objective
 
-Build a regression model that accurately predicts the tip amount based on the given features.
-
-## 🧰 Tools and Libraries
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Seaborn
-- Matplotlib
+![image](https://github.com/user-attachments/assets/10ee6df9-a69a-4724-b3a7-9a9986ba6565)
 
 
-## 🧠 Model Training
 
-Models used:
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
 
-Evaluation Metrics:
-- MAE (Mean Absolute Error)
-- RMSE (Root Mean Squared Error)
-- R² Score
-
-## 📈 Exploratory Data Analysis (EDA)
-
-We performed EDA to visualize:
-- Correlation between total bill and tip
-- Tips by gender and smoking status
-- Distribution of tips across days and time
 
 
 
